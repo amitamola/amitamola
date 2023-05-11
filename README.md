@@ -9,7 +9,10 @@
     * 🐦: [Twitter](https://twitter.com/amit_amola)
     * 📧: [Email](mailto:amitamola.dun@gmail.com)
 
-### 🎯: Check out my Blog Posts
+### 🎯: Check out my different works and blog posts:
+
+* [Strided Inferncing- Python module for small object detection in high resolution images](https://github.com/Bridgei2i/strided_inference)
+![Original Stock Image](https://github.com/Bridgei2i/strided_inference/blob/master/images/result_with_strided.jpg)
 
 * [Understanding Yield in Python](https://amitamola.medium.com/understanding-yield-in-python-b11e7e23d674)
 * [A coding problem so easy yet so difficult](https://amitamola.medium.com/a-problem-so-easy-yet-so-difficult-d46c347531d1)

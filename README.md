@@ -12,9 +12,10 @@
 ### 🎯: Check out my different works and blog posts:
 
 * [Strided Inferncing- Python module for small object detection in high resolution images](https://github.com/Bridgei2i/strided_inference)
-<p align="center">
-  <img src="https://github.com/Bridgei2i/strided_inference/blob/master/images/result_with_strided.jpg"  width="400" height="225">
-</p>
+  <p float="center">
+    <img src="https://github.com/Bridgei2i/strided_inference/blob/master/images/result_without_strided.jpg"  width="450">
+    <img src="https://github.com/Bridgei2i/strided_inference/blob/master/images/result_with_strided.jpg"  width="450">
+  </p>
 
 * [Understanding Yield in Python](https://amitamola.medium.com/understanding-yield-in-python-b11e7e23d674)
 * [A coding problem so easy yet so difficult](https://amitamola.medium.com/a-problem-so-easy-yet-so-difficult-d46c347531d1)

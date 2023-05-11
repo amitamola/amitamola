@@ -4,12 +4,13 @@
 * 👨‍💻 Available for full-time opportunities from August 2023
 * 🏎️ An avid and fast learner with >4 years of experience in Machine Learning, Computer Vision, and Deep Learning
 * 📝 Sharing knowledge and experiences on 📓[Medium](https://amitamola.medium.com/)
+* 📈 Open source dataset contributor on [Kaggle](https://www.kaggle.com/amitamola/datasets)
 * 📫 How to reach me: 
     * 👨‍💼 [LinkedIn](https://www.linkedin.com/in/amitamola/)
     * 🐦 [Twitter](https://twitter.com/amit_amola)
     * 📧 [Email](mailto:amitamola.dun@gmail.com)
 
-### 🎯 Check out my works and blog posts:
+### 🎯 Check out my works:
    * [Strided Inferncing- Python module for small object detection](https://github.com/Bridgei2i/strided_inference)
         <p float="center">
           <img src="https://github.com/Bridgei2i/strided_inference/blob/master/images/result_without_strided.jpg"  width="350">

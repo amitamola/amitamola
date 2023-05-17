@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Amit! Welcome to my GitHub profile! 
 
 * 🤓 Currently pursuing my second Masters' in Computer Science at Trinity College Dublin
-* 👨‍💻 Available for full-time opportunities from August 2023
+* 👨‍💻 Available for full-time opportunities from Jul-Aug 2023
 * 🧑‍🏫 Part-time Lead Python Instructor at [Code First Girls](https://codefirstgirls.com/)
 * 🏎️ An avid and fast learner with 4+ years of experience in Machine Learning, Computer Vision, and Deep Learning
 * 📝 Sharing knowledge and experiences on 📓[Medium](https://amitamola.medium.com/)

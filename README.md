@@ -1,5 +1,6 @@
 ## 👋 Hi, I'm Amit! Welcome to my GitHub profile! 
 
+Here's my [website](https://amitamola.github.io/) to have an overlook🔎🤗
 * 🤓 Currently pursuing my second Masters' in Computer Science at Trinity College Dublin
 * 👨‍💻 Available for full-time opportunities from Jul-Aug 2023
 * 🧑‍🏫 Part-time Lead Python Instructor at [Code First Girls](https://codefirstgirls.com/)
